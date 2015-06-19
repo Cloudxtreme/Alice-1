@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace Alice;
 
 use Illuminate\Auth\Authenticatable;
 use Illuminate\Database\Eloquent\Model;
